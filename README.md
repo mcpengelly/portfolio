@@ -1,2 +1,1 @@
-# portfolio
-my portfolio website
+# Portfolio: A place to put some of things I do
